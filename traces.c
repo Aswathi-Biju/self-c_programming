@@ -26,7 +26,7 @@ int main(){
                 }
             }
         }
-        printf("The sum of the matrix is: ");
+        printf("The trace of the matrix is: ");
         printf("%d",sum);
     }else{
         printf("The matrix is not a square matrix, so can't calculate the trace.\n");
